@@ -11,7 +11,11 @@
 <!-- BOOTSTRAP ENDS -->
 <!-- Fonts -->
 <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
+<!-- Fonts -->
 
+<!-- Fontawesome -->
+<!-- <script src="https://kit.fontawesome.com/a076d05399.js"></script> -->
+<!-- Font awesome -->
 
 
 </head>

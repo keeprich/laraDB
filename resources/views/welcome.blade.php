@@ -168,6 +168,17 @@
 }
 /*  */
 
+
+/*  */
+.car_img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50% 50%;
+    box-shadow: 2px 2px 4px #000000;
+
+
+}
+/*  */
     </style>
 
     @extends('includes.navBar')
@@ -312,6 +323,92 @@ academics are ready to help.</h2>
 <!--  -->
 
 <br><br><br>
+
+<!--  -->
+<div class="container">
+<div class="text-center">
+<h2>Customise your order any way you want!</h2>
+<p>Our services are to be used for research and reference purposes only, unless properly cited.</p>
+</div>
+  <div class="row">
+  <div class="col">
+      <!-- card -->
+      <div style="width: 18rem;">
+      <div class="text-center">
+  <img src="https://images.unsplash.com/photo-1566939658274-738a3411d771?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60" class=" car_img" alt="...">
+  </div>
+  <div class="card-body" >
+    <p class="text-center">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  </div>
+</div>
+      <!-- Card -->
+    </div>
+    <div class="col">
+<!-- card -->
+<div style="width: 18rem;">
+      <div class="text-center">
+  <img src="https://images.unsplash.com/photo-1566939658274-738a3411d771?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60" class=" car_img" alt="...">
+  </div>
+  <div class="card-body" >
+    <p class="text-center">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  </div>
+</div>
+      <!-- Card -->
+          </div>
+    <div class="col">
+<!-- card -->
+<div style="width: 18rem;">
+      <div class="text-center">
+  <img src="https://images.unsplash.com/photo-1566939658274-738a3411d771?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60" class=" car_img" alt="...">
+  </div>
+  <div class="card-body" >
+    <p class="text-center">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  </div>
+</div>
+      <!-- Card -->
+          </div>
+  </div>
+  <div class="row">
+    <div class="col">
+<!-- card -->
+<div style="width: 18rem;">
+      <div class="text-center">
+  <img src="https://images.unsplash.com/photo-1566939658274-738a3411d771?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60" class=" car_img" alt="...">
+  </div>
+  <div class="card-body" >
+    <p class="text-center">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  </div>
+</div>
+      <!-- Card -->
+          </div>
+    <div class="col">
+<!-- card -->
+<div style="width: 18rem;">
+      <div class="text-center">
+  <img src="https://images.unsplash.com/photo-1566939658274-738a3411d771?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60" class=" car_img" alt="...">
+  </div>
+  <div class="card-body" >
+    <p class="text-center">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  </div>
+</div>
+      <!-- Card -->
+          </div>
+    <div class="col">
+<!-- card -->
+<div style="width: 18rem;">
+      <div class="text-center">
+  <img src="https://images.unsplash.com/photo-1566939658274-738a3411d771?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60" class=" car_img" alt="...">
+  </div>
+  <div class="card-body" >
+    <p class="text-center">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  </div>
+</div>
+      <!-- Card -->
+          </div>
+  </div>
+</div>
+<!--  -->
+
 </section>
 
 
